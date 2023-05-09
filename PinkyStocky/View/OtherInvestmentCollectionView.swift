@@ -67,6 +67,7 @@ class OtherInvestmentCollectionView: UIView {
                 btcUSD.priceChange.text = btcUSDData.percentChange
             }
             
+        
         }
     }
     
