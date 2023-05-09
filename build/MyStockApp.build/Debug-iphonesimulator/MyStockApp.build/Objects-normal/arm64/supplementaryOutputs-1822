@@ -1,0 +1,30 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/OtherInvestmentView.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentView.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Controller/SearchResultHomeController.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultHomeController.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultHomeController.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultHomeController.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultHomeController.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/OtherInvestmentCollectionView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentCollectionView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentCollectionView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentCollectionView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/OtherInvestmentCollectionView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/AppDelegate.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/AppDelegate.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/AppDelegate.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/AppDelegate.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/CompanyView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyView.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyView.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/SearchResultCell.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultCell.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultCell.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultCell.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SearchResultCell.o"

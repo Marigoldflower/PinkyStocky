@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/AdjacentPairs.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/AdjacentPairs.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/AdjacentPairs.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/AdjacentPairs.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/AdjacentPairs.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Chain.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chain.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chain.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chain.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chain.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Chunked.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chunked.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chunked.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chunked.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Chunked.dia"

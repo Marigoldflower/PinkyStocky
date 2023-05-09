@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/ErrorView/GuideTextView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/GuideTextView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/GuideTextView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/GuideTextView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/GuideTextView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/WorldWideNewsHeaderView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsHeaderView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsHeaderView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsHeaderView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsHeaderView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Network/CompanyNewsDataNetworkManager.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsDataNetworkManager.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsDataNetworkManager.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsDataNetworkManager.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsDataNetworkManager.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/DataCollectionView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/DataCollectionView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/DataCollectionView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/DataCollectionView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/DataCollectionView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Network/FinancialNewsDataNetworkManager.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/FinancialNewsDataNetworkManager.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/FinancialNewsDataNetworkManager.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/FinancialNewsDataNetworkManager.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/FinancialNewsDataNetworkManager.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/WorldWideNewsCell.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsCell.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsCell.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsCell.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/WorldWideNewsCell.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Model/MyStockList.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/MyStockList.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/MyStockList.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/MyStockList.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/MyStockList.dia"

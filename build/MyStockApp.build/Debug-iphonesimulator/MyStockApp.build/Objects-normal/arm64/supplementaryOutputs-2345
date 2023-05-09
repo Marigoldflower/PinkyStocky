@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Model/CompanyNewsData.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsData.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsData.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsData.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Network/OtherInvestmentNetworkManager/CrudeOilNetworkManager.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CrudeOilNetworkManager.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CrudeOilNetworkManager.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CrudeOilNetworkManager.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CrudeOilNetworkManager.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/SpinningCircleView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SpinningCircleView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SpinningCircleView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SpinningCircleView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/SpinningCircleView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Network/CompanyDataManager.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyDataManager.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyDataManager.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyDataManager.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyDataManager.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/CompanyNewsHeaderView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsHeaderView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsHeaderView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsHeaderView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/CompanyNewsHeaderView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/S&P500ChartsView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/S&P500ChartsView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/S&P500ChartsView.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/S&P500ChartsView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/S&P500ChartsView.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/HomeControllerCell.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/HomeControllerCell.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/HomeControllerCell.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/HomeControllerCell.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/MyStockApp.build/Debug-iphonesimulator/MyStockApp.build/Objects-normal/arm64/HomeControllerCell.d"

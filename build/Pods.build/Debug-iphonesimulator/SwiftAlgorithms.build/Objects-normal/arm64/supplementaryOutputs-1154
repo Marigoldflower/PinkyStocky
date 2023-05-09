@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/Joined.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/Intersperse.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/Indexed.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.d"

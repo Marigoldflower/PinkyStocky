@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Reductions.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Reductions.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Reductions.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Reductions.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Reductions.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Rotate.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Rotate.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Rotate.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Rotate.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Rotate.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Product.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Product.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Product.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Product.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Product.dia"

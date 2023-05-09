@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/Model/CompanyData.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyData.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyData.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyData.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/OtherInvestmentView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/AppDelegate.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/AppDelegate.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/AppDelegate.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/CompanyView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/CompanyView.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/SearchResultCell.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultCell.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultCell.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultCell.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultCell.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/Controller/SearchResultHomeController.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultHomeController.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultHomeController.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultHomeController.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultHomeController.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/OtherInvestmentCollectionView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentCollectionView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentCollectionView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentCollectionView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/OtherInvestmentCollectionView.d"

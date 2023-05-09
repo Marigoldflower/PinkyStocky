@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Suffix.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Suffix.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Suffix.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Suffix.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Suffix.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Split.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Split.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Split.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Split.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Split.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Stride.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Stride.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Stride.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Stride.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Stride.dia"

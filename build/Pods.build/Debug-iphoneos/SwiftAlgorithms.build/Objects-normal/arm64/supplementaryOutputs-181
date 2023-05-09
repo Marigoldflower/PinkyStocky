@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Permutations.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Permutations.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Permutations.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Permutations.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Permutations.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Partition.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Partition.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Partition.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Partition.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Partition.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/MinMax.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/MinMax.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/MinMax.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/MinMax.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/MinMax.dia"

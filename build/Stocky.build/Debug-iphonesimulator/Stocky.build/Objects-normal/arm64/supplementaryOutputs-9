@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/SpinningCircleView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/SpinningCircleView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/SpinningCircleView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/SpinningCircleView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/SpinningCircleView.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Network/CompanyDataManager.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyDataManager.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyDataManager.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyDataManager.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyDataManager.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/HomeControllerCell.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerCell.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerCell.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerCell.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerCell.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Model/OtherInvestment/RealTimeData.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/RealTimeData.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/RealTimeData.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/RealTimeData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/RealTimeData.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/S&P500ChartsView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/S&P500ChartsView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/S&P500ChartsView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/S&P500ChartsView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/S&P500ChartsView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/Model/CompanyNewsData.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsData.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsData.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsData.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsData.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockApp/View/CompanyNewsHeaderView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsHeaderView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsHeaderView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsHeaderView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/CompanyNewsHeaderView.swiftdeps"

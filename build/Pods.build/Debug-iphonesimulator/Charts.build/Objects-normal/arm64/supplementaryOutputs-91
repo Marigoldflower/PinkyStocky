@@ -1,0 +1,90 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/Standard/CombinedChartData.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/ChartBaseDataSet.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronUpShapeRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Renderers/CombinedChartRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Utils/ChartUtils.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartData.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronDownShapeRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Charts/ChartViewBase.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Highlight/ChartHighlighter.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Renderers/Scatter/CircleShapeRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntryBase.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Utils/ChartColorTemplates.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntry.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataSet.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Interfaces/CombinedChartDataProvider.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Data/Interfaces/ChartDataSetProtocol.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Components/ChartLimitLine.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/Charts/Source/Charts/Interfaces/ChartDataProvider.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.o"

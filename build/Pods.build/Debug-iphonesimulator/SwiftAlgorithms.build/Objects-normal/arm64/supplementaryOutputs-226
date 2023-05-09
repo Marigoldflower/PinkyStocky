@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Compacted.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Combinations.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Cycle.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.swiftdeps"

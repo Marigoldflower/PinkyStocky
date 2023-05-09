@@ -1,0 +1,30 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/CompanyNewsCell.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/CompanyNewsCell.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/CompanyNewsCell.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/CompanyNewsCell.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/CompanyNewsCell.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Model/MarketChartData.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MarketChartData.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MarketChartData.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MarketChartData.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MarketChartData.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/NewsControllerCell.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsControllerCell.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsControllerCell.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsControllerCell.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsControllerCell.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Controller/MainTabController.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MainTabController.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MainTabController.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MainTabController.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/MainTabController.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Controller/WorldWideNewsController.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsController.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsController.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsController.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsController.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/WebSocketNetworkView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WebSocketNetworkView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WebSocketNetworkView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WebSocketNetworkView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WebSocketNetworkView.d"

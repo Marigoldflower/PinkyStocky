@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Extension/Convenience.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/Convenience.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/Convenience.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/Convenience.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/Convenience.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/TradesCollectionView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TradesCollectionView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TradesCollectionView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TradesCollectionView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TradesCollectionView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Model/WorldWideNews.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNews.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNews.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNews.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNews.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/WorldWideTopNewsView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideTopNewsView.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideTopNewsView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideTopNewsView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideTopNewsView.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Model/TopNews.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TopNews.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TopNews.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TopNews.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/TopNews.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/HomeControllerHeaderView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/HomeControllerHeaderView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/HomeControllerHeaderView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/HomeControllerHeaderView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/HomeControllerHeaderView.d"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Model/FinancialNewsData.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/FinancialNewsData.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/FinancialNewsData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/FinancialNewsData.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/FinancialNewsData.d"

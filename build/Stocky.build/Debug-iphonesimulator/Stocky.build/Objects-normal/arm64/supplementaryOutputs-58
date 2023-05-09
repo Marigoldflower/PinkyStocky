@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/Model/TopNews.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TopNews.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TopNews.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TopNews.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TopNews.o"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/Extension/Convenience.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/Convenience.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/Convenience.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/Convenience.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/Convenience.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/Model/FinancialNewsData.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/FinancialNewsData.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/FinancialNewsData.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/FinancialNewsData.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/FinancialNewsData.o"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/View/TradesCollectionView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TradesCollectionView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TradesCollectionView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TradesCollectionView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/TradesCollectionView.o"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/Model/WorldWideNews.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideNews.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideNews.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideNews.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideNews.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/View/HomeControllerHeaderView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerHeaderView.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerHeaderView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerHeaderView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/HomeControllerHeaderView.d"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Stocky/View/WorldWideTopNewsView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideTopNewsView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideTopNewsView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideTopNewsView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Stocky.build/Debug-iphonesimulator/Stocky.build/Objects-normal/arm64/WorldWideTopNewsView.dia"

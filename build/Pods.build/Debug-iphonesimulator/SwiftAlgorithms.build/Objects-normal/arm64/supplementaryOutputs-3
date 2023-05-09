@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/FirstNonNil.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/FlattenCollection.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/SwiftAlgorithms/Sources/Algorithms/EitherSequence.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.o"

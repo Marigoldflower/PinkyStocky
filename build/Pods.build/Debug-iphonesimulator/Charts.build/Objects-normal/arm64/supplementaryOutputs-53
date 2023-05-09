@@ -1,0 +1,90 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineRadarChartDataSet.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSet.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSet.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSet.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSet.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Components/MarkerImage.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerImage.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerImage.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerImage.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerImage.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Components/Marker.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Marker.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Marker.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Marker.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Marker.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Interfaces/LineRadarChartDataSetProtocol.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSetProtocol.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSetProtocol.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSetProtocol.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarChartDataSetProtocol.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartDataSet.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSet.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSet.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSet.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSet.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Components/LegendEntry.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendEntry.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendEntry.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendEntry.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendEntry.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/LineRadarRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineRadarRenderer.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/LegendRenderer.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LegendRenderer.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartData.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartData.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartData.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartData.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartData.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartRenderer.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Interfaces/LineChartDataProvider.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataProvider.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataProvider.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataProvider.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataProvider.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Formatters/IndexAxisValueFormatter.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/IndexAxisValueFormatter.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/IndexAxisValueFormatter.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/IndexAxisValueFormatter.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/IndexAxisValueFormatter.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Interfaces/LineScatterCandleRadarChartDataSetProtocol.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSetProtocol.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSetProtocol.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSetProtocol.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSetProtocol.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Interfaces/LineChartDataSetProtocol.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSetProtocol.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSetProtocol.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSetProtocol.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartDataSetProtocol.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/LineScatterCandleRadarRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineScatterCandleRadarChartDataSet.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSet.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSet.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSet.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineScatterCandleRadarChartDataSet.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Components/Legend.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Legend.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Legend.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Legend.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Legend.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Charts/LineChartView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartView.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/LineChartView.o"

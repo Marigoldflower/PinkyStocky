@@ -1,0 +1,35 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/RecommendationView.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/RecommendationView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/RecommendationView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/RecommendationView.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/RecommendationView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/Network/WorldWideNewsDataNetworkManager.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/WorldWideNewsDataNetworkManager.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/WorldWideNewsDataNetworkManager.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/WorldWideNewsDataNetworkManager.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/WorldWideNewsDataNetworkManager.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/ChartsAndDataView.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ChartsAndDataView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ChartsAndDataView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ChartsAndDataView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ChartsAndDataView.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/SearchResultNewsCell.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultNewsCell.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultNewsCell.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultNewsCell.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/SearchResultNewsCell.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/Model/FinancialMetricsData.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/FinancialMetricsData.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/FinancialMetricsData.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/FinancialMetricsData.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/FinancialMetricsData.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/Controller/HomeController.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/HomeController.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/HomeController.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/HomeController.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/HomeController.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/PinkyStocky/View/ErrorView/ErrorView.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ErrorView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ErrorView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ErrorView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/PinkyStocky.build/Debug-iphonesimulator/PinkyStocky.build/Objects-normal/arm64/ErrorView.dia"

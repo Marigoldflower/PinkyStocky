@@ -1,0 +1,85 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortHandler.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortHandler.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortHandler.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortHandler.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRenderer.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRenderer.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Transformer.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Transformer.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Transformer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Transformer.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Transformer.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/TransformerHorizontalBarChart.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TransformerHorizontalBarChart.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TransformerHorizontalBarChart.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TransformerHorizontalBarChart.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TransformerHorizontalBarChart.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/Scatter/TriangleShapeRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TriangleShapeRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TriangleShapeRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TriangleShapeRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/TriangleShapeRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRenderer.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRenderer.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRenderer.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererHorizontalBarChart.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererHorizontalBarChart.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererHorizontalBarChart.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererHorizontalBarChart.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Components/XAxis.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxis.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxis.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxis.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxis.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererRadarChart.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererRadarChart.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererRadarChart.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererRadarChart.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/Scatter/SquareShapeRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/SquareShapeRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/SquareShapeRenderer.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/SquareShapeRenderer.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/SquareShapeRenderer.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/Scatter/XShapeRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XShapeRenderer.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XShapeRenderer.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XShapeRenderer.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XShapeRenderer.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Formatters/ValueFormatter.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ValueFormatter.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ValueFormatter.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ValueFormatter.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ValueFormatter.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererRadarChart.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererRadarChart.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererRadarChart.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxisRendererRadarChart.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ZoomViewJob.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ZoomViewJob.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ZoomViewJob.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ZoomViewJob.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererHorizontalBarChart.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererHorizontalBarChart.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererHorizontalBarChart.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/XAxisRendererHorizontalBarChart.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortJob.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortJob.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortJob.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ViewPortJob.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Components/YAxis.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxis.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxis.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxis.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/YAxis.dia"

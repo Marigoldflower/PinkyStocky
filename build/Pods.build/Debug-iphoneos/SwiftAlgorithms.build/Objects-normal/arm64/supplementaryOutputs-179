@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/EitherSequence.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/EitherSequence.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/FirstNonNil.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FirstNonNil.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/FlattenCollection.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/FlattenCollection.dia"

@@ -1,0 +1,85 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Components/MarkerView.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerView.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MarkerView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Highlight/PieRadarHighlighter.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarHighlighter.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarHighlighter.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarHighlighter.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarHighlighter.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Data/Interfaces/PieChartDataSetProtocol.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSetProtocol.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSetProtocol.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSetProtocol.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSetProtocol.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Highlight/PieHighlighter.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieHighlighter.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieHighlighter.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieHighlighter.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieHighlighter.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataSet.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSet.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSet.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSet.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataSet.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform+Gestures.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Gestures.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Gestures.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Gestures.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Gestures.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform+Touch Handling.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Touch Handling.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Touch Handling.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Touch Handling.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Touch Handling.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Renderers/PieChartRenderer.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartRenderer.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Jobs/MoveViewJob.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MoveViewJob.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MoveViewJob.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MoveViewJob.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/MoveViewJob.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform+Accessibility.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Accessibility.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Accessibility.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Accessibility.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Accessibility.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform+Color.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Color.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Color.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Color.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Color.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Charts/PieChartView.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartView.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartView.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartView.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartView.d"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataEntry.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataEntry.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataEntry.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataEntry.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartDataEntry.dia"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartData.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartData.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartData.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartData.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieChartData.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Utils/Platform+Graphics.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Graphics.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Graphics.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Graphics.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Platform+Graphics.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/Charts/Source/Charts/Charts/PieRadarChartViewBase.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarChartViewBase.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarChartViewBase.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarChartViewBase.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/PieRadarChartViewBase.o"

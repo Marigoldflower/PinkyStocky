@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Combinations.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Compacted.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.o"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pods/SwiftAlgorithms/Sources/Algorithms/Cycle.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.dia"

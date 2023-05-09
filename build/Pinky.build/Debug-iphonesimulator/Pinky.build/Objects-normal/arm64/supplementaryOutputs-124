@@ -1,0 +1,20 @@
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/NewsHeaderView.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsHeaderView.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsHeaderView.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsHeaderView.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/NewsHeaderView.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/LoadingView.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/LoadingView.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/LoadingView.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/LoadingView.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/LoadingView.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/Controller/SearchResultNewsController.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/SearchResultNewsController.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/SearchResultNewsController.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/SearchResultNewsController.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/SearchResultNewsController.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Pinky/Pinky/View/WorldWideNewsCell.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsCell.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsCell.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsCell.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Pinky/build/Pinky.build/Debug-iphonesimulator/Pinky.build/Objects-normal/arm64/WorldWideNewsCell.swiftdeps"

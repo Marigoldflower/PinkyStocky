@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Joined.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Joined.dia"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Indexed.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Indexed.o"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Intersperse.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Intersperse.o"

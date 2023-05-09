@@ -1,0 +1,90 @@
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Interfaces/ChartDataProvider.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataProvider.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Interfaces/ChartDataSetProtocol.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSetProtocol.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/CombinedChartData.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartData.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntry.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntry.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntryBase.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataEntryBase.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Highlight/ChartHighlighter.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartHighlighter.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/CombinedChartRenderer.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataSet.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartDataSet.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Utils/ChartUtils.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartUtils.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronUpShapeRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronUpShapeRenderer.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/Scatter/CircleShapeRenderer.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CircleShapeRenderer.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/ChartBaseDataSet.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartBaseDataSet.dia"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronDownShapeRenderer.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChevronDownShapeRenderer.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Interfaces/CombinedChartDataProvider.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/CombinedChartDataProvider.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Utils/ChartColorTemplates.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartColorTemplates.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartData.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartData.o"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Charts/ChartViewBase.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartViewBase.d"
+"/Users/marigold/Desktop/MyPrivateApp/MyStockApp/Pods/Charts/Source/Charts/Components/ChartLimitLine.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.o"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/ChartLimitLine.d"

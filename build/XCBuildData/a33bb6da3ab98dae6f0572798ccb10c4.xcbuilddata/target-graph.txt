@@ -1,0 +1,16 @@
+Target dependency graph (6 targets)
+SwiftAlgorithms in Pods, no dependencies
+Charts in Pods, depends on:
+SwiftAlgorithms in Pods (explicit)
+SDWebImage in Pods, no dependencies
+Pods-PinkyStocky in Pods, depends on:
+Charts in Pods (explicit)
+SDWebImage in Pods (explicit)
+SwiftAlgorithms in Pods (explicit)
+PinkyStocky in PinkyStocky, depends on:
+Pods-PinkyStocky in Pods (implicit dependency via file 'Pods_PinkyStocky.framework' in build phase 'Link Binary')
+SwiftAlgorithms in Pods (implicit dependency via options '-framework Algorithms' in build setting 'OTHER_LDFLAGS')
+Charts in Pods (implicit dependency via options '-framework Charts' in build setting 'OTHER_LDFLAGS')
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS')
+PinkyTests in PinkyStocky, depends on:
+PinkyStocky in PinkyStocky (explicit)

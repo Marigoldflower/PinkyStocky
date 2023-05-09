@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Trim.swift":
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Trim.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Trim.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Trim.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Trim.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Unique.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Unique.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Unique.dia"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Unique.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Unique.o"
+"/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Pods/SwiftAlgorithms/Sources/Algorithms/Windows.swift":
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Windows.swiftdeps"
+  object: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Windows.o"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Windows.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/build/Pods.build/Debug-iphoneos/SwiftAlgorithms.build/Objects-normal/arm64/Windows.dia"

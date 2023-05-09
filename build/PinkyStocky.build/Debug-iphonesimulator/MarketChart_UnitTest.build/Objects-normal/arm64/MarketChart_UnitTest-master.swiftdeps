@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "71361927f545da3110d04994093d84bee9093bcccca79f5a40910fe31ff5d3f7"
+build_start_time: [1683090884, 239585000]
+build_end_time: [1683090884, 796236000]
+inputs:
+  "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Unit Test/MarketChart_UnitTest/MarketChart_UnitTest.swift": [1683089237, 653606533]

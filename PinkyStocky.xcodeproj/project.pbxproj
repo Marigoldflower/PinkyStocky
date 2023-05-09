@@ -12,7 +12,6 @@
 		EA1F939E29C99937008F2C92 /* SearchResultNewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F939D29C99937008F2C92 /* SearchResultNewsCell.swift */; };
 		EA1F93A029CAB403008F2C92 /* GuideTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F939F29CAB403008F2C92 /* GuideTextView.swift */; };
 		EA1F93A329CAD6E8008F2C92 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F93A229CAD6E8008F2C92 /* LoadingView.swift */; };
-		EA1F93A529CADF9C008F2C92 /* SpinningCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F93A429CADF9C008F2C92 /* SpinningCircleView.swift */; };
 		EA1F93C929CC110B008F2C92 /* WorldWideNewsDataNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F93C829CC110B008F2C92 /* WorldWideNewsDataNetworkManager.swift */; };
 		EA1F93CB29CC21BB008F2C92 /* WorldWideNewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F93CA29CC21BB008F2C92 /* WorldWideNewsCell.swift */; };
 		EA1F941A29CD895E008F2C92 /* WorldWideNewsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1F941929CD895E008F2C92 /* WorldWideNewsController.swift */; };
@@ -54,7 +53,6 @@
 		EA7ACCE629DED783001B8EEB /* OtherInvestmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7ACCE529DED783001B8EEB /* OtherInvestmentView.swift */; };
 		EA7ACD1829E133D6001B8EEB /* RealTimeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7ACD1729E133D6001B8EEB /* RealTimeData.swift */; };
 		EA7ACD1D29E13529001B8EEB /* RealTimeNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7ACD1C29E13529001B8EEB /* RealTimeNetworkManager.swift */; };
-		EA7ACD3729E573CB001B8EEB /* MyStockAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7ACD3629E573CB001B8EEB /* MyStockAppTests.swift */; };
 		EA9EAA7A29B6F61F00001C84 /* MarketChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAA7929B6F61F00001C84 /* MarketChartData.swift */; };
 		EA9EAA7C29B6F90200001C84 /* MarketChartDataNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAA7B29B6F90200001C84 /* MarketChartDataNetworkManager.swift */; };
 		EA9EAAA229B9971400001C84 /* MyStockList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAAA129B9971400001C84 /* MyStockList.swift */; };
@@ -66,7 +64,7 @@
 		EA9EAB1E29C5A08000001C84 /* FinancialNewsDataNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAB1D29C5A08000001C84 /* FinancialNewsDataNetworkManager.swift */; };
 		EA9EAB2029C5AAEF00001C84 /* NewsHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAB1F29C5AAEF00001C84 /* NewsHeaderView.swift */; };
 		EA9EAB2229C5DCBB00001C84 /* WorldWideTopNewsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EAB2129C5DCBB00001C84 /* WorldWideTopNewsCell.swift */; };
-		EBF9FAFD94AC02168187892C /* Pods_Pinky.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CF9FAA37A5744F968EE50C4 /* Pods_Pinky.framework */; };
+		FBB37B7CB4F2928CE2F537C2 /* Pods_PinkyStocky.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CE69CD386AE836DC71E1A66 /* Pods_PinkyStocky.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,19 +78,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2A1E9608097905AA1F3131F5 /* Pods-Pinky.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pinky.debug.xcconfig"; path = "Target Support Files/Pods-Pinky/Pods-Pinky.debug.xcconfig"; sourceTree = "<group>"; };
-		3A2E6D69034C4E189B86FB13 /* Pods-Pinky.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pinky.release.xcconfig"; path = "Target Support Files/Pods-Pinky/Pods-Pinky.release.xcconfig"; sourceTree = "<group>"; };
-		5369ED440C782FE959DB02F3 /* Pods-Stocky.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stocky.debug.xcconfig"; path = "Target Support Files/Pods-Stocky/Pods-Stocky.debug.xcconfig"; sourceTree = "<group>"; };
-		5CF9FAA37A5744F968EE50C4 /* Pods_Pinky.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pinky.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6B7507B0284CA4091BA0059F /* Pods-MyStockApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyStockApp.release.xcconfig"; path = "Target Support Files/Pods-MyStockApp/Pods-MyStockApp.release.xcconfig"; sourceTree = "<group>"; };
-		843003854EF10B0FA99DC574 /* Pods-Stocky.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stocky.release.xcconfig"; path = "Target Support Files/Pods-Stocky/Pods-Stocky.release.xcconfig"; sourceTree = "<group>"; };
-		9AE3119B3719FB5651200AAD /* Pods-MyStockApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyStockApp.debug.xcconfig"; path = "Target Support Files/Pods-MyStockApp/Pods-MyStockApp.debug.xcconfig"; sourceTree = "<group>"; };
+		0CE69CD386AE836DC71E1A66 /* Pods_PinkyStocky.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PinkyStocky.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FA2BE8866C09B79F352C6B8 /* Pods-PinkyStocky.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PinkyStocky.debug.xcconfig"; path = "Target Support Files/Pods-PinkyStocky/Pods-PinkyStocky.debug.xcconfig"; sourceTree = "<group>"; };
+		C3C5E22DF1B1C66E4565C78C /* Pods-PinkyStocky.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PinkyStocky.release.xcconfig"; path = "Target Support Files/Pods-PinkyStocky/Pods-PinkyStocky.release.xcconfig"; sourceTree = "<group>"; };
 		EA0EE4F629EE65C600111B7C /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		EA1F939B29C997B0008F2C92 /* SearchResultNewsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultNewsController.swift; sourceTree = "<group>"; };
 		EA1F939D29C99937008F2C92 /* SearchResultNewsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultNewsCell.swift; sourceTree = "<group>"; };
 		EA1F939F29CAB403008F2C92 /* GuideTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideTextView.swift; sourceTree = "<group>"; };
 		EA1F93A229CAD6E8008F2C92 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
-		EA1F93A429CADF9C008F2C92 /* SpinningCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinningCircleView.swift; sourceTree = "<group>"; };
 		EA1F93C829CC110B008F2C92 /* WorldWideNewsDataNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldWideNewsDataNetworkManager.swift; sourceTree = "<group>"; };
 		EA1F93CA29CC21BB008F2C92 /* WorldWideNewsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldWideNewsCell.swift; sourceTree = "<group>"; };
 		EA1F941929CD895E008F2C92 /* WorldWideNewsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldWideNewsController.swift; sourceTree = "<group>"; };
@@ -105,7 +98,7 @@
 		EA1F94AC29DC0188008F2C92 /* TradesCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradesCollectionView.swift; sourceTree = "<group>"; };
 		EA1F94AE29DC0EAF008F2C92 /* TopNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNews.swift; sourceTree = "<group>"; };
 		EA1F94B029DC0FC4008F2C92 /* TopNewsNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNewsNetworkManager.swift; sourceTree = "<group>"; };
-		EA633A03299CB0E600876395 /* Pinky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pinky.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA633A03299CB0E600876395 /* PinkyStocky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PinkyStocky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA633A06299CB0E600876395 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA633A08299CB0E600876395 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EA633A0A299CB0E600876395 /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
@@ -137,7 +130,6 @@
 		EA7ACD1729E133D6001B8EEB /* RealTimeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealTimeData.swift; sourceTree = "<group>"; };
 		EA7ACD1C29E13529001B8EEB /* RealTimeNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealTimeNetworkManager.swift; sourceTree = "<group>"; };
 		EA7ACD3429E573CB001B8EEB /* PinkyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PinkyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA7ACD3629E573CB001B8EEB /* MyStockAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStockAppTests.swift; sourceTree = "<group>"; };
 		EA9EAA7929B6F61F00001C84 /* MarketChartData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketChartData.swift; sourceTree = "<group>"; };
 		EA9EAA7B29B6F90200001C84 /* MarketChartDataNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketChartDataNetworkManager.swift; sourceTree = "<group>"; };
 		EA9EAAA129B9971400001C84 /* MyStockList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStockList.swift; sourceTree = "<group>"; };
@@ -156,7 +148,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBF9FAFD94AC02168187892C /* Pods_Pinky.framework in Frameworks */,
+				FBB37B7CB4F2928CE2F537C2 /* Pods_PinkyStocky.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -173,20 +165,16 @@
 		1270D090E625A71A5E41FC7A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				9AE3119B3719FB5651200AAD /* Pods-MyStockApp.debug.xcconfig */,
-				6B7507B0284CA4091BA0059F /* Pods-MyStockApp.release.xcconfig */,
-				5369ED440C782FE959DB02F3 /* Pods-Stocky.debug.xcconfig */,
-				843003854EF10B0FA99DC574 /* Pods-Stocky.release.xcconfig */,
-				2A1E9608097905AA1F3131F5 /* Pods-Pinky.debug.xcconfig */,
-				3A2E6D69034C4E189B86FB13 /* Pods-Pinky.release.xcconfig */,
+				8FA2BE8866C09B79F352C6B8 /* Pods-PinkyStocky.debug.xcconfig */,
+				C3C5E22DF1B1C66E4565C78C /* Pods-PinkyStocky.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		B87E4EE600AD9580B8F9BBBD /* Frameworks */ = {
+		3F591764867F804DC21EF6AD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5CF9FAA37A5744F968EE50C4 /* Pods_Pinky.framework */,
+				0CE69CD386AE836DC71E1A66 /* Pods_PinkyStocky.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -204,24 +192,23 @@
 			isa = PBXGroup;
 			children = (
 				EA0EE4F629EE65C600111B7C /* Settings.bundle */,
-				EA633A05299CB0E600876395 /* Pinky */,
-				EA7ACD3529E573CB001B8EEB /* MyStockAppTests */,
+				EA633A05299CB0E600876395 /* PinkyStocky */,
 				EA633A04299CB0E600876395 /* Products */,
 				1270D090E625A71A5E41FC7A /* Pods */,
-				B87E4EE600AD9580B8F9BBBD /* Frameworks */,
+				3F591764867F804DC21EF6AD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		EA633A04299CB0E600876395 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA633A03299CB0E600876395 /* Pinky.app */,
+				EA633A03299CB0E600876395 /* PinkyStocky.app */,
 				EA7ACD3429E573CB001B8EEB /* PinkyTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA633A05299CB0E600876395 /* Pinky */ = {
+		EA633A05299CB0E600876395 /* PinkyStocky */ = {
 			isa = PBXGroup;
 			children = (
 				EA633A06299CB0E600876395 /* AppDelegate.swift */,
@@ -234,7 +221,7 @@
 				EA633A0F299CB0E800876395 /* Assets.xcassets */,
 				EA633A14299CB0E800876395 /* Info.plist */,
 			);
-			path = Pinky;
+			path = PinkyStocky;
 			sourceTree = "<group>";
 		};
 		EA633A1A299CB0EF00876395 /* View */ = {
@@ -243,7 +230,6 @@
 				EA633A0C299CB0E600876395 /* Main.storyboard */,
 				EA633A11299CB0E800876395 /* LaunchScreen.storyboard */,
 				EA1F93A229CAD6E8008F2C92 /* LoadingView.swift */,
-				EA1F93A429CADF9C008F2C92 /* SpinningCircleView.swift */,
 				EA633A26299CBBEF00876395 /* HomeControllerCell.swift */,
 				EA9EAB1529C1AB4100001C84 /* HomeControllerHeaderView.swift */,
 				EA9EAB0B29C178CF00001C84 /* S&P500ChartsView.swift */,
@@ -341,34 +327,26 @@
 			path = OtherInvestmentNetworkManager;
 			sourceTree = "<group>";
 		};
-		EA7ACD3529E573CB001B8EEB /* MyStockAppTests */ = {
-			isa = PBXGroup;
-			children = (
-				EA7ACD3629E573CB001B8EEB /* MyStockAppTests.swift */,
-			);
-			path = MyStockAppTests;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA633A02299CB0E600876395 /* Pinky */ = {
+		EA633A02299CB0E600876395 /* PinkyStocky */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA633A17299CB0E800876395 /* Build configuration list for PBXNativeTarget "Pinky" */;
+			buildConfigurationList = EA633A17299CB0E800876395 /* Build configuration list for PBXNativeTarget "PinkyStocky" */;
 			buildPhases = (
-				8AB117BEE336190C5FD3205A /* [CP] Check Pods Manifest.lock */,
+				1B944A62762E24F3F3AC7F2A /* [CP] Check Pods Manifest.lock */,
 				EA6339FF299CB0E600876395 /* Sources */,
 				EA633A00299CB0E600876395 /* Frameworks */,
 				EA633A01299CB0E600876395 /* Resources */,
-				11EB34C2857E99C31A073551 /* [CP] Embed Pods Frameworks */,
+				27F9DBE6FC88E652F13A3C99 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Pinky;
+			name = PinkyStocky;
 			productName = MyStockApp;
-			productReference = EA633A03299CB0E600876395 /* Pinky.app */;
+			productReference = EA633A03299CB0E600876395 /* PinkyStocky.app */;
 			productType = "com.apple.product-type.application";
 		};
 		EA7ACD3329E573CB001B8EEB /* PinkyTests */ = {
@@ -408,7 +386,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA6339FE299CB0E600876395 /* Build configuration list for PBXProject "Pinky" */;
+			buildConfigurationList = EA6339FE299CB0E600876395 /* Build configuration list for PBXProject "PinkyStocky" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -421,7 +399,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA633A02299CB0E600876395 /* Pinky */,
+				EA633A02299CB0E600876395 /* PinkyStocky */,
 				EA7ACD3329E573CB001B8EEB /* PinkyTests */,
 			);
 		};
@@ -449,24 +427,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		11EB34C2857E99C31A073551 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Pinky/Pods-Pinky-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Pinky/Pods-Pinky-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Pinky/Pods-Pinky-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8AB117BEE336190C5FD3205A /* [CP] Check Pods Manifest.lock */ = {
+		1B944A62762E24F3F3AC7F2A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -481,11 +442,28 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Pinky-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-PinkyStocky-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		27F9DBE6FC88E652F13A3C99 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PinkyStocky/Pods-PinkyStocky-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PinkyStocky/Pods-PinkyStocky-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PinkyStocky/Pods-PinkyStocky-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -498,7 +476,6 @@
 				EA633A4229A08B1A00876395 /* CompanyNewsData.swift in Sources */,
 				EA633A27299CBBEF00876395 /* HomeControllerCell.swift in Sources */,
 				EA633A4B29A73D9C00876395 /* CompanyNewsHeaderView.swift in Sources */,
-				EA1F93A529CADF9C008F2C92 /* SpinningCircleView.swift in Sources */,
 				EA9EAB0C29C178CF00001C84 /* S&P500ChartsView.swift in Sources */,
 				EA633A34299CEDF800876395 /* CompanyDataManager.swift in Sources */,
 				EA7ACD1829E133D6001B8EEB /* RealTimeData.swift in Sources */,
@@ -556,7 +533,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA7ACD3729E573CB001B8EEB /* MyStockAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -565,7 +541,7 @@
 /* Begin PBXTargetDependency section */
 		EA7ACD3929E573CB001B8EEB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EA633A02299CB0E600876395 /* Pinky */;
+			target = EA633A02299CB0E600876395 /* PinkyStocky */;
 			targetProxy = EA7ACD3829E573CB001B8EEB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -706,7 +682,7 @@
 		};
 		EA633A18299CB0E800876395 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A1E9608097905AA1F3131F5 /* Pods-Pinky.debug.xcconfig */;
+			baseConfigurationReference = 8FA2BE8866C09B79F352C6B8 /* Pods-PinkyStocky.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -714,7 +690,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = T9LJ52AQY5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Pinky/Info.plist;
+				INFOPLIST_FILE = PinkyStocky/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -737,7 +713,7 @@
 		};
 		EA633A19299CB0E800876395 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3A2E6D69034C4E189B86FB13 /* Pods-Pinky.release.xcconfig */;
+			baseConfigurationReference = C3C5E22DF1B1C66E4565C78C /* Pods-PinkyStocky.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -745,7 +721,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = T9LJ52AQY5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Pinky/Info.plist;
+				INFOPLIST_FILE = PinkyStocky/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -807,7 +783,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA6339FE299CB0E600876395 /* Build configuration list for PBXProject "Pinky" */ = {
+		EA6339FE299CB0E600876395 /* Build configuration list for PBXProject "PinkyStocky" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA633A15299CB0E800876395 /* Debug */,
@@ -816,7 +792,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA633A17299CB0E800876395 /* Build configuration list for PBXNativeTarget "Pinky" */ = {
+		EA633A17299CB0E800876395 /* Build configuration list for PBXNativeTarget "PinkyStocky" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA633A18299CB0E800876395 /* Debug */,

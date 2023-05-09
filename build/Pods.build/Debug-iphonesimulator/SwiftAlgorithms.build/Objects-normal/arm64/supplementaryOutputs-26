@@ -1,0 +1,15 @@
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Compacted.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.d"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.o"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Compacted.swiftdeps"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Cycle.swift":
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.dia"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.swiftdeps"
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.d"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Cycle.o"
+"/Users/marigold/Desktop/MyPrivateApp/Stocky/Pods/SwiftAlgorithms/Sources/Algorithms/Combinations.swift":
+  dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.d"
+  swift-dependencies: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.swiftdeps"
+  diagnostics: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.dia"
+  object: "/Users/marigold/Desktop/MyPrivateApp/Stocky/build/Pods.build/Debug-iphonesimulator/SwiftAlgorithms.build/Objects-normal/arm64/Combinations.o"
