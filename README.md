@@ -20,11 +20,7 @@
 
 |실시간 주가 업데이트|주식 삭제|해당 주식의 Detail 화면|
 |:---:|:---:|:---:|
-|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/081482b9-6f8c-47d6-a93c-cabb48a78bab" width="200" height="400"/>|중앙정렬|가운데|
-
-
-
-
+|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/081482b9-6f8c-47d6-a93c-cabb48a78bab" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/0c069c72-80ac-45db-896c-f937bc0a00aa" width="200" height="400"/>|가운데|
 
 
 
