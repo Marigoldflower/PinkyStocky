@@ -58,9 +58,9 @@
 
     <img width="200" alt="5개의 화면" src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/2bce7875-6f73-4542-90c1-7f80ce986d9d">
 
-    - <span style="background-color:#F7DDBE">(1) 해당 주식의 이름 (맨 위)</span>
+    - <span style="background-color:#F7DDBE">(1)해당 주식의 이름 (맨 위)</span>
     
-    - <span style="background-color:#dcffe4">(2) 해당 주식의 차트 데이터 (1번 아래)</span>
+    - <span style="background-color:#dcffe4">(2)해당 주식의 차트 데이터 (1번 아래)</span>
     
     - (3) 해당 주식의 주가를 한 눈에 볼 수 있도록 구성
     - (4) 해당 주식의 상장 코드 및 스톡리스트에 저장하는 버튼 구성
