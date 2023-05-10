@@ -55,10 +55,9 @@
 1. **앱의 구조를 설계하는 것에 대한 고민** 
     
     🤔 : 주식을 디테일하게 보여주는 화면을 구성할 때, 한 화면에 5개의 화면이 들어가게끔 만들어주고 싶은데 어떻게 화면을 설계할 수 있을까? 또한 Navigation Bar를 Push & Pop 방식이 아닌 Present 방식으로 띄우고 싶은데 어떻게 해야 할까? 아래와 같이 말이다.
-    
-    |:---:|
-    |<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4846030f-e282-45b7-ad0e-83668b6a0f18/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_5%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9_%E1%84%82%E1%85%A1%E1%84%82%E1%85%AE%E1%86%B7.png" width="200" height="400"/>|
-    
+
+    <img width="378" alt="5개의 화면" src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/2bce7875-6f73-4542-90c1-7f80ce986d9d">
+
     - (1) 해당 주식의 이름
     
     - (2) 해당 주식의 차트 데이터
