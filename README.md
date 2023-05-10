@@ -35,6 +35,5 @@
 
 |환율과 코인의 실시간 가격 확인|실시간 환율, 코인 및 주식 가격 업데이트|최신 경제 뉴스 확인|
 |:---:|:---:|:---:|
-|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/414755da-9f0b-4288-a27f-e1993d063499" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9eef009-f4e5-45aa-8737-f634b05e64d6" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/5a804545-5fd2-40ef-80c9-f31644555551" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/335e4059-770f-499a-af93-158717674ed6" width="200" height="400"/>|
-
+|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/414755da-9f0b-4288-a27f-e1993d063499" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9eef009-f4e5-45aa-8737-f634b05e64d6" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/5a804545-5fd2-40ef-80c9-f31644555551" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/5e34f2b4-28b0-4238-bb49-e5d80b284bf3" width="200" height="400"/>|
 
