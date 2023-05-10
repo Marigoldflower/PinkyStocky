@@ -16,11 +16,12 @@
 > - UserDefaults를 사용하여 원하는 주식이 저장될 수 있게 구현했습니다.
 > - 저장한 주식을 오른쪽으로 밀어 삭제할 수 있습니다.
 > - 주식을 클릭하면 해당 주식의 자세한 데이터와 뉴스 기사 등을 확인할 수 있습니다.
+> - 서치 바에 원하는 주식을 검색하여 주식을 메인 화면에 담을 수 있습니다.
 
 
-|실시간 주가 업데이트|주식 삭제|해당 주식의 Detail 화면|
-|:---:|:---:|:---:|
-|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/081482b9-6f8c-47d6-a93c-cabb48a78bab" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/0c069c72-80ac-45db-896c-f937bc0a00aa" width="200" height="400"/>|가운데|
+|실시간 주가 업데이트|주식 삭제|주식의 Detail 화면|메인화면에 주식 담기|
+|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/081482b9-6f8c-47d6-a93c-cabb48a78bab" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/0c069c72-80ac-45db-896c-f937bc0a00aa" width="200" height="400"/>|가운데|주식담기|
 
 
 
