@@ -58,7 +58,7 @@
 
     <img width="200" alt="5개의 화면" src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/2bce7875-6f73-4542-90c1-7f80ce986d9d">
 
-    - <span style="background-color:#F7DDBE">(1)해당 주식의 이름 (맨 위)</span>
+    - <span style="background-color:#F7DDBE">(1) 해당 주식의 이름 (맨 위) </span>
     
     - <span style="background-color:#dcffe4">(2)해당 주식의 차트 데이터 (1번 아래)</span>
     
