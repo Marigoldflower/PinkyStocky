@@ -184,8 +184,6 @@ extension WorldWideNewsController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: WorldWideNewsCell.identifier, for: indexPath) as! WorldWideNewsCell
         
-        cell.selectionStyle = .none
-        
         cell.journalImage.sd_setImage(with: worldWideNewsArray[indexPath.row].imageSDURL)
         cell.journalTitle.text = worldWideNewsArray[indexPath.row].newsTitle
         cell.journalDescription.text = worldWideNewsArray[indexPath.row].newsDescription

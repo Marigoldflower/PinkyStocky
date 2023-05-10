@@ -183,7 +183,7 @@ class TradesCollectionView: UIView {
     lazy var google: CompanyView = {
         let view = CompanyView()
         view.backgroundColor = .dataPink
-        view.companyImageView.sd_setImage(with: self.setupLogoURL(companyName: "google"))
+        view.companyImageView.sd_setImage(with: self.setupLogoURL(companyName: "Google"))
         view.symbolName.text = "GOOG"
         view.descriptionName.text = "Alphabet Inc."
         return view

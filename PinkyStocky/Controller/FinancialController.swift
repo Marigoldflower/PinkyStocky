@@ -344,7 +344,6 @@ extension FinancialController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: NewsControllerCell.identifier, for: indexPath) as! NewsControllerCell
         
-        cell.selectionStyle = .none
         
         cell.newsImage.sd_setImage(with: financialNewsArray[indexPath.row].imageSDURL)
         cell.publisher.text = financialNewsArray[indexPath.row].publisher
