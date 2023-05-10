@@ -25,6 +25,19 @@
 
 
 
+### 🏦 금융 정보 화면 (Financial)
+> - 환율과 코인의 실시간 가격을 확인할 수 있습니다. 오른쪽으로 스크롤하여 더 많은 데이터를 확인할 수 있습니다.
+> - Reload 버튼을 눌러 실시간 환율과 코인 및 주식의 가격을 업데이트 할 수 있습니다.
+> - 아래로 스크롤하여 최신 경제 뉴스를 확인할 수 있습니다. (테이블 뷰로 구현)
+> - 우량주의 현재가와 실시간 데이터를 확인합니다.
+
+
+|환율과 코인의 실시간 가격|실시간 환율, 코인 및 주식 가격 업데이트|최신 경제 뉴스 확인|
+|:---:|:---:|:---:|
+|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/414755da-9f0b-4288-a27f-e1993d063499" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9eef009-f4e5-45aa-8737-f634b05e64d6" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/5a804545-5fd2-40ef-80c9-f31644555551" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/90d4c3ec-9dda-4ad3-b6cd-4662b1db3e9f" width="200" height="400"/>|
+
+
+
 
 
 
