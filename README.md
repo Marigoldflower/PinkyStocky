@@ -47,5 +47,6 @@
 
 |Top News|최신 뉴스|최신 뉴스 검색|
 |:---:|:---:|:---:|
-|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/9e67c42b-7ffc-4c91-bfd8-dc829e044acd" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9eef009-f4e5-45aa-8737-f634b05e64d6" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/cb8abeaa-639a-415d-9eb5-fb8193692305" width="200" height="400"/>|
+|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/9e67c42b-7ffc-4c91-bfd8-dc829e044acd" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/67228bb0-2ad1-43a8-8da8-06653e954c70" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9863a05-4d3f-48f8-a534-1fa81ae7220a" width="200" height="400"/>|
+
 
