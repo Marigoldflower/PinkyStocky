@@ -50,11 +50,14 @@
 |<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/9e67c42b-7ffc-4c91-bfd8-dc829e044acd" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/67228bb0-2ad1-43a8-8da8-06653e954c70" width="200" height="400"/>|<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/a9863a05-4d3f-48f8-a534-1fa81ae7220a" width="200" height="400"/>|
 
 
+## 고민의 흔적
+
 1. **앱의 구조를 설계하는 것에 대한 고민** 
     
     🤔 : 주식을 디테일하게 보여주는 화면을 구성할 때, 한 화면에 5개의 화면이 들어가게끔 만들어주고 싶은데 어떻게 화면을 설계할 수 있을까? 또한 Navigation Bar를 Push & Pop 방식이 아닌 Present 방식으로 띄우고 싶은데 어떻게 해야 할까? 아래와 같이 말이다.
     
-    ![화면을 5개로 나눔.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4846030f-e282-45b7-ad0e-83668b6a0f18/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_5%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9_%E1%84%82%E1%85%A1%E1%84%82%E1%85%AE%E1%86%B7.png)
+    |:---:|
+    |<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4846030f-e282-45b7-ad0e-83668b6a0f18/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF_5%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9_%E1%84%82%E1%85%A1%E1%84%82%E1%85%AE%E1%86%B7.png" width="200" height="400"/>|
     
     - (1) 해당 주식의 이름
     
