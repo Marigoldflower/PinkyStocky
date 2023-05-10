@@ -56,7 +56,7 @@
     
     🤔 : 주식을 디테일하게 보여주는 화면을 구성할 때, 한 화면에 5개의 화면이 들어가게끔 만들어주고 싶은데 어떻게 화면을 설계할 수 있을까? 또한 Navigation Bar를 Push & Pop 방식이 아닌 Present 방식으로 띄우고 싶은데 어떻게 해야 할까? 아래와 같이 말이다.
 
-    <img width="378" alt="5개의 화면" src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/2bce7875-6f73-4542-90c1-7f80ce986d9d">
+    <img width="200" alt="5개의 화면" src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/2bce7875-6f73-4542-90c1-7f80ce986d9d">
 
     - (1) 해당 주식의 이름
     
