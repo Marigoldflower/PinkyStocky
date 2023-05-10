@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "ba589d0ba5b98c358fbe148b34d26bb83f01eec33500221cc5151c8a0e060135"
-build_start_time: [1683090884, 239585000]
-build_end_time: [1683090884, 796583000]
-inputs:
-  "/Users/marigold/Desktop/MyPrivateApp/PinkyStocky/Unit Test/FinancialNewsData_UnitTest/FinancialNewsData_UnitTest.swift": [1683090312, 327257307]

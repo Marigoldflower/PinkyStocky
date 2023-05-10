@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "d5d03aa3aca919f6156edbf1cdb0a4eee7792b0377763eefb57a71272ad0ed94"
-build_start_time: [1681460412, 600165000]
-build_end_time: [1681460413, 633431000]
-inputs:
-  "/Users/marigold/Desktop/MyPrivateApp/MyStockApp/MyStockAppTests/MyStockAppTests.swift": [1681460412, 209280685]
