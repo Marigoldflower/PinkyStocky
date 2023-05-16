@@ -40,7 +40,7 @@ final class TopNewsDataNetworkManager {
 
         // ⭐️ 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다. ⭐️
         // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
         
         let today = Date()
         let oneWeeksAgo = today - (86400 * 7)
@@ -48,11 +48,8 @@ final class TopNewsDataNetworkManager {
         formatter.dateFormat = "yyyy-MM-dd"
         let earliestPublishDate = formatter.string(from: oneWeeksAgo)
         
-        
-        let myAPIKey = "317fa039aea64f5383d896dca09a10e6"
-        
         // business
-        let urlString = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=317fa039aea64f5383d896dca09a10e6"
+        let urlString = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=\(apiKey)"
         print(urlString)
         
         performRequest(with: urlString) { result in

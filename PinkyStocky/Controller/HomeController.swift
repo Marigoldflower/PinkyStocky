@@ -11,6 +11,10 @@ import Charts
 
 class HomeController: UIViewController {
     
+    private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
+    private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"
+    
     
     lazy var errorView = ErrorView(frame: CGRect(x: 0, y: 0, width: Int(self.view.frame.size.width), height: Int(self.view.frame.size.height * 0.28)))
     
@@ -142,7 +146,7 @@ class HomeController: UIViewController {
         let group = DispatchGroup()
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "SPY") { [weak self] result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "SPY", apiKey: finnhubAPIKey) { [weak self] result in
             defer {
                 group.leave()
             }
@@ -200,7 +204,7 @@ class HomeController: UIViewController {
         // 왜냐하면 배열은 0, 1로 객체를 세지만, 일반적으로는 1, 2로 객체를 세기 때문이다.
         for number in 0...index {
             print("지금 들어온 수는 \(number)임")
-            marketChartDataNetworkManager.fetchNetwork(searchTerm: UserDefaults.standard.userDataList[number].codeName) { result in
+            marketChartDataNetworkManager.fetchNetwork(searchTerm: UserDefaults.standard.userDataList[number].codeName, apiKey: finnhubAPIKey) { result in
                 switch result {
                 case .success(let data):
                     let codeName = UserDefaults.standard.userDataList[number].codeName

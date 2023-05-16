@@ -10,6 +10,10 @@ import SafariServices
 
 class SearchResultNewsController: UIViewController {
 
+    private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
+    private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"
+    
     var timer: Timer?
     
     let errorView = ErrorView()
@@ -61,7 +65,7 @@ class SearchResultNewsController: UIViewController {
         timer?.invalidate()
         // 타이머를 이용해서 0.3초 내에 네트워킹 작업이 이루어질 수 있도록
         timer = Timer.scheduledTimer(withTimeInterval: 0.3, repeats: false) { [self] _ in
-            companyNewsDataNetworkManager.fetchNetwork(searchTerm: term) { result in
+            companyNewsDataNetworkManager.fetchNetwork(searchTerm: term, apiKey: finnhubAPIKey) { result in
                 
                 switch result {
                 case .success(let companyDatas):

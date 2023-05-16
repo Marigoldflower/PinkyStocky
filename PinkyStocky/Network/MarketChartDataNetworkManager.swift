@@ -30,9 +30,7 @@ final class MarketChartDataNetworkManager {
 
         // ⭐️ 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다. ⭐️
         // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
-        
-        let myAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
         
         // 1. from과 to의 시간을 설정해주기 위해서 유닉스 시간을 설정해줘야 함
         // 유닉스 시간은 timeIntervalSince1970으로 1970년으로부터 몇 초가 흘렀는지를 의미함
@@ -53,7 +51,7 @@ final class MarketChartDataNetworkManager {
         let threeDaysAgo = Int(fromDate.timeIntervalSince1970)
         
         
-        let urlString = "https://finnhub.io/api/v1/stock/candle?symbol=\(searchTerm)&resolution=1&from=\(threeDaysAgo)&to=\(today)&token=\(myAPIKey)"
+        let urlString = "https://finnhub.io/api/v1/stock/candle?symbol=\(searchTerm)&resolution=1&from=\(threeDaysAgo)&to=\(today)&token=\(apiKey)"
         print(urlString)
         
         performRequest(with: urlString) { result in

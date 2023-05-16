@@ -10,6 +10,10 @@ import SDWebImage
 import SafariServices
 
 class WorldWideNewsController: UIViewController {
+    
+    private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
+    private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"
 
     let searchController = UISearchController(searchResultsController: SearchResultNewsController())
     
@@ -119,7 +123,7 @@ class WorldWideNewsController: UIViewController {
         let group = DispatchGroup()
         group.enter()
         
-        worldWideNewsNetworkManager.fetchNetwork(searchTerm: "business") { result in
+        worldWideNewsNetworkManager.fetchNetwork(searchTerm: "business", apiKey: newsAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -138,7 +142,7 @@ class WorldWideNewsController: UIViewController {
         }
         
         group.enter()
-        topNewsNetworkManager.fetchNetwork(searchTerm: "techcrunch") { result in
+        topNewsNetworkManager.fetchNetwork(searchTerm: "techcrunch", apiKey: newsAPIKey) { result in
             defer {
                 group.leave()
             }

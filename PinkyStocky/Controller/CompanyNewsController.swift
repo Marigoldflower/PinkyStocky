@@ -12,6 +12,9 @@ import SafariServices
 
 class CompanyNewsController: UIViewController {
     
+    private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
+    private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"
     
     
     let DidDismissPostCommentViewController: Notification.Name = Notification.Name("DidDismissPostCommentViewController")
@@ -121,7 +124,7 @@ class CompanyNewsController: UIViewController {
     private func setupNewsDatas() {
         
         guard let safeSearchTerm = searchTerm else { return }
-        newsDataNetworkManager.fetchNetwork(searchTerm: safeSearchTerm) { result in
+        newsDataNetworkManager.fetchNetwork(searchTerm: safeSearchTerm, apiKey: finnhubAPIKey) { result in
             switch result {
             case .success(let newsDatas):
                 // 데이터(배열)을 받아오고 난 후
@@ -162,7 +165,7 @@ class CompanyNewsController: UIViewController {
         
         guard let codeName = codeName else { return }
         
-        financialMetricsDataMananger.fetchNetwork(searchTerm: codeName) { [weak self] result in
+        financialMetricsDataMananger.fetchNetwork(searchTerm: codeName, apiKey: finnhubAPIKey) { [weak self] result in
             defer {
                 group.leave()
             }
@@ -179,7 +182,7 @@ class CompanyNewsController: UIViewController {
         }
         
         group.enter()
-        marketDataNetworkManager.fetchNetwork(searchTerm: codeName) { [weak self] result in
+        marketDataNetworkManager.fetchNetwork(searchTerm: codeName, apiKey: finnhubAPIKey) { [weak self] result in
             defer {
                 group.leave()
             }

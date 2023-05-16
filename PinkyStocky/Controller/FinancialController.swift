@@ -12,6 +12,9 @@ import SafariServices
 
 class FinancialController: UIViewController {
     
+    private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
+    private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"
     
     let tableView = UITableView()
     
@@ -115,7 +118,7 @@ class FinancialController: UIViewController {
         let group = DispatchGroup()
         
         group.enter()
-        newsDataNetworkManager.fetchNetwork(searchTerm: "general") { result in
+        newsDataNetworkManager.fetchNetwork(searchTerm: "general", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -132,7 +135,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "AAPL") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "AAPL", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -148,7 +151,7 @@ class FinancialController: UIViewController {
         }
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "TSLA") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "TSLA", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -165,7 +168,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "MSFT") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "MSFT", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -182,7 +185,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "NVDA") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "NVDA", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -199,7 +202,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "AMZN") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "AMZN", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -217,7 +220,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        marketChartDataNetworkManager.fetchNetwork(searchTerm: "GOOG") { result in
+        marketChartDataNetworkManager.fetchNetwork(searchTerm: "GOOG", apiKey: finnhubAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -233,7 +236,7 @@ class FinancialController: UIViewController {
         }
         
         group.enter()
-        realTimeNetworkManager.fetchNetwork(searchTerm: "EUR/USD") { result in
+        realTimeNetworkManager.fetchNetwork(searchTerm: "EUR/USD", apiKey: twelveDataAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -249,7 +252,7 @@ class FinancialController: UIViewController {
         }
         
         group.enter()
-        realTimeNetworkManager.fetchNetwork(searchTerm: "GBP/USD") { result in
+        realTimeNetworkManager.fetchNetwork(searchTerm: "GBP/USD", apiKey: twelveDataAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -266,7 +269,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        realTimeNetworkManager.fetchNetwork(searchTerm: "BTC/USD") { result in
+        realTimeNetworkManager.fetchNetwork(searchTerm: "BTC/USD", apiKey: twelveDataAPIKey) { result in
             defer {
                 group.leave()
             }
@@ -283,7 +286,7 @@ class FinancialController: UIViewController {
         
         
         group.enter()
-        realTimeNetworkManager.fetchNetwork(searchTerm: "ETH/USD") { result in
+        realTimeNetworkManager.fetchNetwork(searchTerm: "ETH/USD", apiKey: twelveDataAPIKey) { result in
             defer {
                 group.leave()
             }

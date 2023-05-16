@@ -20,9 +20,7 @@ final class CompanyNewsDataNetworkManager {
     // 여러 뷰 컨트롤러에서 통신을 한다면, 일반적으로 싱글톤 패턴으로 만든다.
     static let shared = CompanyNewsDataNetworkManager()
     // 여러객체를 추가적으로 생성하지 못하도록 설정
-    private init() {}
-    
-    
+    private init() {}    
     
     // 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다.
     // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
@@ -34,8 +32,8 @@ final class CompanyNewsDataNetworkManager {
     
     // ⭐️ 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다. ⭐️
     // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
-        let myAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
+        
         let toDate = Date()
         let fromDate = toDate - (86400 * 365)
         
@@ -46,7 +44,7 @@ final class CompanyNewsDataNetworkManager {
         let oneYearsAgo = formattter.string(from: fromDate)
         
         
-        let urlString = "https://finnhub.io/api/v1/company-news?symbol=\(searchTerm)&from=\(oneYearsAgo)&to=\(today)&token=\(myAPIKey)"
+        let urlString = "https://finnhub.io/api/v1/company-news?symbol=\(searchTerm)&from=\(oneYearsAgo)&to=\(today)&token=\(apiKey)"
         print(urlString)
         
         performRequest(with: urlString) { result in

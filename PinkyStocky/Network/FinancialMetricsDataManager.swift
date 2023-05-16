@@ -30,11 +30,10 @@ final class FinancialMetricsDataManager {
     
     // 네트워킹 요청하는 함수 (음악데이터 가져오기)
     // searchTerm은 나중에 개발자가 받고 싶은 데이터가 있을 때 입력하는 란이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
         
-        let myAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
-        
-        let urlString = "https://finnhub.io/api/v1/stock/metric?symbol=\(searchTerm)&metric=all&token=\(myAPIKey)"
+
+        let urlString = "https://finnhub.io/api/v1/stock/metric?symbol=\(searchTerm)&metric=all&token=\(apiKey)"
         print("성공적으로 URL이 수행되었습니다")
         
         performRequest(with: urlString) { result in

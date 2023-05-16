@@ -37,10 +37,10 @@ final class CompanyDataManager {
 
         // ⭐️ 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다. ⭐️
         // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
         
-        let myAPIKeyinFinnhub = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
-        let urlString = "https://finnhub.io/api/v1/search?q=\(searchTerm)&token=\(myAPIKeyinFinnhub)"
+        
+        let urlString = "https://finnhub.io/api/v1/search?q=\(searchTerm)&token=\(apiKey)"
         print(urlString)
         
         performRequest(with: urlString) { result in

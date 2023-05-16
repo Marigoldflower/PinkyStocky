@@ -34,16 +34,16 @@ final class RealTimeNetworkManager {
 
         // ⭐️ 결론적으로 내가 받고 싶은 리턴 타입을 여기에 적어준다. ⭐️
         // 결론적으로 받고 싶은 타입은 [MusicData] 타입이다.
-    func fetchNetwork(searchTerm: String, completion: @escaping NetworkCompletion) {
+    func fetchNetwork(searchTerm: String, apiKey: String, completion: @escaping NetworkCompletion) {
         
         let today = Date()
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy-MM-dd"
         let todayString = formatter.string(from: today)
         
-        let myAPIKey = "e94f97bf158743928e4c40929b0e92b7"
         
-        let urlString = "https://api.twelvedata.com/quote?symbol=\(searchTerm)&apikey=\(myAPIKey)&source=docs"
+        
+        let urlString = "https://api.twelvedata.com/quote?symbol=\(searchTerm)&apikey=\(apiKey)&source=docs"
         print(urlString)
         
         performRequest(with: urlString) { result in
