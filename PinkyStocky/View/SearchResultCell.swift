@@ -8,11 +8,7 @@
 
 import UIKit
 
-class SearchResultCell: UITableViewCell {
-    
-   
-    
-    
+final class SearchResultCell: UITableViewCell {
     
 
     override func awakeFromNib() {

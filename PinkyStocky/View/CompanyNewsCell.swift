@@ -7,7 +7,7 @@
 
 import UIKit
 
-class CompanyNewsCell: UITableViewCell {
+final class CompanyNewsCell: UITableViewCell {
     
     // MARK: - 뉴스기사 관련 요소들
     

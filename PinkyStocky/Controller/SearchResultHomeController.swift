@@ -8,7 +8,7 @@
 import UIKit
 
 
-class SearchResultHomeController: UIViewController {
+final class SearchResultHomeController: UIViewController {
     private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
     private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"
     private let newsAPIKey = "317fa039aea64f5383d896dca09a10e6"

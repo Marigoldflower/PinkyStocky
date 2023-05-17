@@ -14,7 +14,7 @@ protocol ReloadButtonDelegate: AnyObject {
 }
 
 
-class SP500ChartsView: UIView {
+final class SP500ChartsView: UIView {
 
     
     var delegate: ReloadButtonDelegate?

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class OtherInvestmentCollectionView: UIView {
+final class OtherInvestmentCollectionView: UIView {
     
     
     var eurUSDData: RealTimeData? {

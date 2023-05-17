@@ -10,7 +10,7 @@ import SDWebImage
 
 
 
-class TradesCollectionView: UIView {
+final class TradesCollectionView: UIView {
     
     
     

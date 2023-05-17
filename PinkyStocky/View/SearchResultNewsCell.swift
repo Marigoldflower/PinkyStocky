@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SearchResultNewsCell: UITableViewCell {
+final class SearchResultNewsCell: UITableViewCell {
 
     static let identifier = "SearchResultNewsCell"
     

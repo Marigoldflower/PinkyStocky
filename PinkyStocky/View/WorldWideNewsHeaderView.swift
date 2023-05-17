@@ -7,7 +7,7 @@
 
 import UIKit
 
-class WorldWideNewsHeaderView: UITableViewHeaderFooterView {
+final class WorldWideNewsHeaderView: UITableViewHeaderFooterView {
 
     static let identifier = "WorldWideNewsHeaderView"
     

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class WorldWideNewsCell: UITableViewCell {
+final class WorldWideNewsCell: UITableViewCell {
 
     
     static let identifier = "WorldWideNewsCell"
@@ -15,13 +15,10 @@ class WorldWideNewsCell: UITableViewCell {
     
     
     var imageUrl: String? {
-         didSet {
+        didSet {
             loadImage()
-         }
+        }
     }
-
-
-    
     
     // MARK: - 책 정보
     

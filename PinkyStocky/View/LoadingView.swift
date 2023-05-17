@@ -7,7 +7,7 @@
 
 import UIKit
 
-class LoadingView: UIView {
+final class LoadingView: UIView {
     
     
     // MARK: - 로딩 중을 표현하는 뷰

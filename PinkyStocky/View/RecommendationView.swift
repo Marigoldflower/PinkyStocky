@@ -12,7 +12,7 @@ protocol FinancialReloadButtonDelegate: AnyObject {
 }
 
 
-class RecommendationView: UIView {
+final class RecommendationView: UIView {
 
     
     var delegate: FinancialReloadButtonDelegate?

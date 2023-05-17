@@ -8,7 +8,7 @@
 import UIKit
 import Charts
 
-class HomeControllerCell: UITableViewCell {
+final class HomeControllerCell: UITableViewCell {
     
     
     lazy var codeName: UILabel = {

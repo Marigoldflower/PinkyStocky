@@ -7,7 +7,7 @@
 
 import UIKit
 
-class NewsControllerCell: UITableViewCell {
+final class NewsControllerCell: UITableViewCell {
     
 
     

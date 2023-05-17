@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ChartsAndDataView: UIView {
+final class ChartsAndDataView: UIView {
     
     
     var stockChartsView = StockChartsView()

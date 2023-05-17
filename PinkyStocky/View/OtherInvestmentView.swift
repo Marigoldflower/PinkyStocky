@@ -7,7 +7,7 @@
 
 import UIKit
 
-class OtherInvestmentView: UIView {
+final class OtherInvestmentView: UIView {
 
     let symbolName: UILabel = {
         let label = UILabel()

@@ -9,7 +9,7 @@ import UIKit
 
 
 
-class CompanyView: UIView {
+final class CompanyView: UIView {
     
     
     // MARK: - Company Image

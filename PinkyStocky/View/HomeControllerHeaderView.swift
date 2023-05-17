@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HomeControllerHeaderView: UITableViewHeaderFooterView {
+final class HomeControllerHeaderView: UITableViewHeaderFooterView {
 
     static let identifier = "HomeControllerHeaderView"
     

@@ -8,7 +8,7 @@
 import UIKit
 
 
-class WorldWideTopNewsCell: UICollectionViewCell {
+final class WorldWideTopNewsCell: UICollectionViewCell {
     
     static let identifier = "WorldWideTopNewsCell"
     

@@ -17,7 +17,7 @@ protocol TopNewsDelegate: AnyObject {
 }
 
 // 이 뷰 안에 delegate = self가 있어야 함
-class WorldWideTopNewsView: UIView {
+final class WorldWideTopNewsView: UIView {
     
     
     weak var delegate: TopNewsDelegate?

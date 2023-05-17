@@ -12,7 +12,7 @@ protocol AddStockListButtonDelegate: AnyObject {
     func addStockListButtonTapped(_ header: CompanyNewsHeaderView)
 }
 
-class CompanyNewsHeaderView: UITableViewHeaderFooterView {
+final class CompanyNewsHeaderView: UITableViewHeaderFooterView {
 
 
     weak var delegate: AddStockListButtonDelegate?

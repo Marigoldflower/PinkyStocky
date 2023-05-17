@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FinancialLiveTradeCell: UICollectionViewCell {
+final class FinancialLiveTradeCell: UICollectionViewCell {
     
     static let identifier = "FinancialLiveTradeCell"
     

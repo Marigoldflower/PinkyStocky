@@ -10,7 +10,7 @@ import SDWebImage
 import SafariServices
 
 
-class CompanyNewsController: UIViewController {
+final class CompanyNewsController: UIViewController {
     
     private let finnhubAPIKey = "cficbc9r01qq9nt20eagcficbc9r01qq9nt20eb0"
     private let twelveDataAPIKey = "e94f97bf158743928e4c40929b0e92b7"

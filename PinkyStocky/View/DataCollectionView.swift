@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DataCollectionView: UIView {
+final class DataCollectionView: UIView {
     
     
     

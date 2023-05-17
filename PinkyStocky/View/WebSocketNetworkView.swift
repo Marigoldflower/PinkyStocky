@@ -9,7 +9,7 @@ import UIKit
 import Charts
 
 
-class WebSocketNetworkView: UIView {
+final class WebSocketNetworkView: UIView {
     
     
 //    let webSocketNetworkCollection = WebSocketNetworkCollection()

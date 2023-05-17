@@ -9,10 +9,7 @@ import UIKit
 import Foundation
 import Charts
 
-
-
-
-class StockChartsView: UIView {
+final class StockChartsView: UIView {
 
     
     // 지금 네트워크 통신의 문제점: 네트워크 통신보다 View가 먼저 그려짐으로 인해 배열이 비는 상황이 발생
